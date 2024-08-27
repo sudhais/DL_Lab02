@@ -1,0 +1,5 @@
+1. What happens when the number of hidden nodes increase?
+    When the number of hidden nodes in the hidden layer of a neural network increases, The network can fit the training data more accurately, potentially reducing training error and Increased Computational Cost
+
+2. Can you explain the pattern of the accuracy when the hidden nodes increase?
+    The pattern of accuracy when increasing the number of hidden nodes typically follows a non-linear behavior, influenced by the data, the task, and the initial network configuration. 
